@@ -9,7 +9,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>SiraKen' Daily UI Challenge</title>
+        <title>SiraKen&apos;s Daily UI Challenge</title>
         <meta
           name="description"
           content="Kento Shirasawa's Daily UI designing challenge."
@@ -22,7 +22,7 @@ const Home: NextPage = () => {
             Daily UI
           </Heading>
           <Text fontSize={"lg"} opacity={0.75}>
-            SiraKen's Daily UI Challenge.
+            SiraKen&apos;s Daily UI Challenge.
           </Text>
           <Text fontSize={"xs"} opacity={0.75}>
             <Link
